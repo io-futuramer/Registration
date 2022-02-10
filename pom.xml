@@ -11,7 +11,7 @@
         <version.springframework>5.1.9.RELEASE</version.springframework>
         <version.springsecurity>5.1.5.RELEASE</version.springsecurity>
         <version.springdata>2.1.9.RELEASE</version.springdata>
-        <version.hibernate>5.4.4.Final</version.hibernate>
+        <version.hibernate>5.4.24.Final</version.hibernate>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
